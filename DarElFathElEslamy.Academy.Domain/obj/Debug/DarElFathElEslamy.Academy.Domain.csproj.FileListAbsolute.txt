@@ -1,0 +1,27 @@
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\DarElFathElEslamy.Academy.Domain.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\DarElFathElEslamy.Academy.Domain.pdb
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\DarElFathElEslamy.Academy.Domain.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\DarElFathElEslamy.Academy.Domain.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.csprojAssemblyReference.cache
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Domain\obj\Debug\DarElFathElEslamy.Academy.Domain.csproj.CopyComplete

@@ -1,0 +1,103 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+#mu-footer {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.mu-footer-top {
+    background-color: #333;
+    display: inline;
+    float: left;
+    padding: 50px 0;
+    width: 100%;
+}
+    .mu-footer-top.mu-footer-top-area {
+        display: inline;
+        float: left;
+        width: 100%;
+    }
+        .mu-footer-top.mu-footer-top-area.mu-footer-widget {
+            display: inline;
+            float: left;
+            width: 100%;
+        }
+        .mu-footer-top.mu-footer-top-area.mu-footer-widget h4 {
+            color: #fff;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+				.mu-subscribe-form{
+					display: inline;
+					float: left;
+					margin-top: 10px;
+					width: 100%;
+					input[type="email"]{
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						color: #000;
+						font-size: 15px;
+						height: 35px;
+						margin-bottom: 20px;
+						padding: 5px;
+						width: 100%;
+						
+					}
+					.mu-subscribe-btn{
+						color: #fff;
+						border: medium none;
+						border-radius: 4px;						
+						font-size: 14px;
+						letter-spacing: 0.5px;
+						padding: 5px 10px;
+				}
+				address p{
+						font-weight: lighter;
+						letter-spacing: 0.5px;
+					}
+
+.mu-footer-bottom {
+    background-color: #222;
+    display: inline;
+    float: left;
+    padding: 25px 0;
+    width: 100%;
+}
+
+    .mu-footer-bottom.mu-footer-bottom-area {
+        display: inline;
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+        .mu-footer-bottom.mu-footer-bottom-area p {
+            color: #fff;
+            margin-bottom: 0;
+            letter-spacing: 0.3px;
+            
+			}
+		

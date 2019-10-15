@@ -1,0 +1,58 @@
+﻿@model DarElFathElEslamy.Academy.Domain.Models.LookUps.Carosel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Carosel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EnTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EnTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EnDesc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EnDesc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FrTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FrTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FrDesc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FrDesc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImagePath)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImagePath)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

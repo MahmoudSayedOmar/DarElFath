@@ -1,0 +1,26 @@
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Data.EF.dll.config
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Data.EF.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Data.EF.pdb
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Domain.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Domain.pdb
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.xml
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.csprojResolveAssemblyReference.cache
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.dll
+C:\Users\Popos\Documents\Visual Studio 2017\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Data.EF.dll.config
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Data.EF.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Data.EF.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Domain.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\DarElFathElEslamy.Academy.Domain.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.xml
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.dll
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.pdb
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.csprojAssemblyReference.cache
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.csproj.CoreCompileInputs.cache
+D:\Projects\DarElFathElEslamy.Academy\DarElFathElEslamy.Academy.Data.EF\obj\Debug\DarElFathElEslamy.Academy.Data.EF.csproj.CopyComplete

@@ -1,0 +1,131 @@
+﻿@using System.Globalization
+@using System.Threading;
+@using DarElFathElEslamy.Academy.Service.LocalResource.Layout.Navbar
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        .social:hover {
+            -webkit-transform: scale(1.1);
+            -moz-transform: scale(1.1);
+            -o-transform: scale(1.1);
+        }
+        .social {
+            -webkit-transform: scale(0.8);
+            /* Browser Variations: */
+            -moz-transform: scale(0.8);
+            -o-transform: scale(0.8);
+            -webkit-transition-duration: 0.5s;
+            -moz-transition-duration: 0.5s;
+            -o-transition-duration: 0.5s;
+           color:black;
+        }
+
+        /*
+    Multicoloured Hover Variations
+*/
+
+        #social-fb:hover {
+            color: #3B5998;
+        }
+
+        #social-tw:hover {
+            color: #4099FF;
+        }
+
+        #social-yt:hover {
+            color: #d34836;
+        }
+
+        #social-instagram:hover {
+            color: deeppink;
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    
+                    @Html.ActionLink(@Navbar.Home, "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink(@Navbar.Team, "Contact", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink(@Navbar.Questions, "About", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Courses
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        @Html.ActionLink(@Navbar.Quran, "Index", "Home", new { @class = "dropdown-item" })
+                        @Html.ActionLink(@Navbar.Private, "Index", "Home", new { area = "" }, new { @class = "dropdown-item" })
+                        @Html.ActionLink(@Navbar.Group, "Index", "Home", new { area = "" }, new { @class = "dropdown-item" })
+                        @Html.ActionLink(@Navbar.Children, "Index", "Home", new { area = "" }, new { @class = "dropdown-item" })
+
+                   
+                    </div>
+                </li>
+            </ul>
+
+            @Html.Partial("_LoginPartial")
+
+
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    
+        <!-- Footer -->
+       
+
+    </div>
+    <footer>
+        <div class="container">
+            <h3>Select Your Language :</h3>
+                @{
+                    CultureInfo currentCulture = Thread.CurrentThread.CurrentCulture;
+
+                    <p  >-<a style="color:black" href="/Home/ChangeCurrentCulture/0">English</a>  -<a style="color:black" href="/Home/ChangeCurrentCulture/1">French</a></p>
+                }
+
+            <hr>
+            <div class="text-center center-block">
+                <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+                <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+                @*<a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus fa-3x social"></i></a>
+                <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope fa-3x social"></i></a>
+                <a href="https://www.linkedin.com"><i id="social-linkedin" class="fa fa-linkedin fa-3x social"> </i></a>*@
+                <a href="https://www.youtube.com"><i id="social-yt" class="fa fa-youtube-square fa-3x social"> </i></a>
+                <a href="https://www.instagram.com"><i id="social-instagram" class="fa fa-instagram fa-3x social"> </i></a>
+                <br />
+                <p class="txt-railway" style="color:grey">Dar EL Fath ElEslamy © 2019 Copyrights</p>
+            </div>
+            <hr>
+        </div>
+    </footer>
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/popper.min.js"></script>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
